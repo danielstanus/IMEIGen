@@ -1,0 +1,4 @@
+https://www.enacom.gob.ar/imei Verificar si el IMEI esta o no en la blacklist
+
+
+http://www.imei.info  Verificar informacion de un IMEI
